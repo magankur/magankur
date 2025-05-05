@@ -1,8 +1,8 @@
 I am an AI expert with extensive experience in **Multi-AI Agent Systems**, **Deep Learning**, **Computer Vision**, **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, **Generative AI**, **Machine Learning**, **Time Series Forecasting**, and **Natural Language Processing (NLP)**.  
-My expertise spans across cutting-edge AI technologies, optimizing performance, reducing costs, and deploying production-ready AI solutions at scale.
 
 ---
 
+My expertise spans across cutting-edge AI technologies, optimizing performance, reducing costs, and deploying production-ready AI solutions at scale.
 ## ✦ Skills and Expertise:
 
 ➜ **Expert in Prompt Engineering** – Optimizing LLMs like **GPT-4o/o1**, **Claude 3.5 Sonnet/Opus**, **Mistral**, **Gemini**, **Llama 3**, **HuggingFace**, **Together.ai**, **Ollama**, **LM Studio**, **Groq**, and more.
